@@ -1,3 +1,5 @@
+*The text below describes a project idea that I'd like to see tested. I do not intend to work on this anytime soon.*
+
 The goal of this project is to provide guided retrieval practice for educational resources.
 
 In a larger context, the goal is to make free online learning more effective. There are already many high quality educational resources in text or video form. Those are great for providing information. However, they have limited success in making sure that the learners will actually learn and remember the material. Research shows that retrieval practice is more effective than rewatching and rereading. Retrieval practice focusses on getting information out of the students heads, by letting them answer questions. Therefore, providing quizzes for existing educational content can improve the probability of learning success.
